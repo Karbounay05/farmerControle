@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="f5" green="69" red="4a" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="jLabel1" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jButton1" min="-2" pref="43" max="-2" attributes="0"/>
+                              <Component id="password" min="-2" pref="55" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" pref="574" max="-2" attributes="0"/>
+                  <EmptySpace pref="168" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Component id="jLabel2" min="-2" pref="496" max="-2" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <Component id="jLabel1" min="-2" pref="112" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="229" max="-2" attributes="0"/>
+                          <Component id="password" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="156" max="-2" attributes="0"/>
+                          <Component id="jButton1" min="-2" pref="37" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="37" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/Icon/11023691 (1).png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;&#xa;Le travail a fait l&#x2019;objet d&#x2019;une demande de la Fondation BTS concernant le projet de fin d&#x2019;ann&#xe9;e dans le domaine de l&#x2019;informatique&lt;br&gt;&lt;br&gt;&#xa; par cons&#xe9;quent, nous vous fournirons une excellente application centr&#xe9;e sur la gestion des champs agricoles&#xa;Notre application fait partie des applications qui permettent &#xe0; l&#x2019;utilisateur de g&#xe9;rer facilement des fermes, en particulier des agriculteurs&#xa; ainsi, l&#x2019;utilisateur dispose de plusieurs options, dont la cr&#xe9;ation d&#x2019;une nouvelle ferme pour l&#x2019;agriculture qui comprend 3 cultures de base&lt;br&gt;&lt;br&gt;&#xa;L&#x2019;utilisateur peut ajouter un nouvel implant et le rationner pour en b&#xe9;n&#xe9;ficier &#xa; il a &#xe9;galement la capacit&#xe9; de lancer ou de modifier l&#x2019;implant d&#x2019;une mani&#xe8;re qui permet &#xe0; l&#x2019;utilisateur de suivre des &#xe9;tapes d&#x2019;utilisation simples&#xa; nous n&#x2019;oublierons pas qu&#x2019;il a la possibilit&#xe9; ou la caract&#xe9;ristique d&#x2019;historique &#xe0; travers lequel il transporte toutes les informations qu&#x2019;il a faites jusqu&#x2019;&#xe0; pr&#xe9;sent &lt;br&gt;&lt;br&gt;&#xa;Toutes les informations sont enregistr&#xe9;es dans la base de donn&#xe9;es qui les prot&#xe8;ge et les pr&#xe9;serve des dommages et les relance &#xe0; nouveau en r&#xe9;cup&#xe9;rant le processus&#xa; , notre application offre &#xe9;galement la possibilit&#xe9; de calculer les vastes zones de mani&#xe8;re innovante&#xa;il est important dans cette application qu&#x2019;elle donne &#xe0; l&#x2019;utilisateur l&#x2019;acc&#xe8;s &#xe0; Google Maps et calcule rapidement les zones&#xa;il est important que les rendements annuels et mensuels du produit soient partag&#xe9;s par le biais des algorithmes du programme.&lt;br&gt;&lt;br&gt;&#xa;La condition de l&#x2019;utilisateur lui donne acc&#xe8;s aux conditions m&#xe9;t&#xe9;orologiques, notamment la vitesse du vent et la m&#xe9;t&#xe9;o&#xa; tout ce qu&#x2019;il a &#xe0; faire est de saisir des informations sur la ville et l&#x2019;emplacement &#xe0; l&#x2019;aide de l&#x2019;API m&#xe9;t&#xe9;o.&lt;br&gt;&lt;br&gt;&#xa;La facilit&#xe9; d&#x2019;utilisation de l&#x2019;application permet d&#x2019;augmenter la productivit&#xe9; et la productivit&#xe9; agricole et agricole &#xa;Notre ambition &#xe0; l&#x2019;avenir est de fournir davantage de cultures n&#xe9;cessaires &#xe0; l&#x2019;agriculture et d&#x2019;en faciliter l&#x2019;utilisation autant que possible.&lt;br&gt;&lt;br&gt;&#xa;Tout ce travail a &#xe9;t&#xe9; pr&#xe9;sent&#xe9; par l&#x2019;&#xe9;tudiant Ahmed Karboun&lt;br&gt;&lt;br&gt;&#xa;&lt;/html&gt;&#xa;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/Icon/arrow (1).png"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="password">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="f5" green="69" red="4a" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
